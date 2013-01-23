@@ -20,3 +20,4 @@ if [ "$release" != "`cat current`" ]
 fi
 
 
+
