@@ -29,4 +29,3 @@ else
     echo "  Your $app is up to date!"
 fi
 
-
